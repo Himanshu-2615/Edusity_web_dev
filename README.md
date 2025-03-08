@@ -1,11 +1,12 @@
-# Edusity_web_dev
+# React + Vite
 
-College/University Website Frontend using ReactJS: 
-A fully responsive college/university website built with ReactJS, designed for a seamless user experience. It features smooth scrolling, an interactive image slider, and a working contact form that sends inquiries directly to your email.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Features:
-Responsive Design – Optimized for all devices.
-Working Contact Form – Direct email inquiries.
-Modern UI – Clean and intuitive design.
+Currently, two official plugins are available:
 
-Tech Stack: ReactJS
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
