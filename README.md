@@ -26,3 +26,5 @@ The Edusity University website is designed to offer prospective and current stud
 - **JavaScript**: Programming language for interactive and dynamic features.
 - **React.js**: JavaScript library for building user interfaces.
 
+
+The demo video is also available in the repository.
